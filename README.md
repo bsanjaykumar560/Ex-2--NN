@@ -1,5 +1,5 @@
-<H3>Name: Kavi M S</H3>
-<H3>Register no: 212223220044</H3>
+<H3>Name: Sanjay kumar.B</H3>
+<H3>Register no: 212223220095</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
